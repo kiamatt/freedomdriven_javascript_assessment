@@ -54,7 +54,7 @@
 //---------------------------
 
 
-// Add a method to the String object called grammarize, which capitalizes the first letter in a string and adds a period to the end of the string.
+// Add a method to the String object called grammarize, which capitalizes the first letter in a string and adds a period to the end of the string if it doesn't have one already.
 // Run grammarize on all of your weather descriptions with each new ajax call.
 
 
